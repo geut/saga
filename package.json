@@ -1,0 +1,21 @@
+{
+  "name": "@geut/saga",
+  "version": "1.0.0",
+  "description": "A helper module to share operations between peers built on top of hyperdb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "GEUT",
+  "license": "MIT",
+  "dependencies": {
+    "hyperdb": "^3.5.0",
+    "hyperid": "^2.0.2",
+    "pump": "^3.0.0"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1",
+    "jest": "^24.1.0"
+  }
+}
