@@ -4,6 +4,7 @@
 > hyperdb.
 
 ---
+![npm version badge](https://badge.fury.io/js/%40geut%2Fsaga.svg)
 
 ## Install
 
